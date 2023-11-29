@@ -1,4 +1,4 @@
-# Server app
+# JWT JS
 
 This library provides the essential components required work with jwt on bun environment.
 
